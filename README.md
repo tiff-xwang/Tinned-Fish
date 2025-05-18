@@ -10,7 +10,7 @@ After some [analysis](Tinned_Fish.ipynb), I was surprised by how many countries 
 Read my [article](https://tiff-xwang.github.io/tinned-fish/) to find out!
  
 ## Data & Workflow
-I used Rainbow Tomatoes Garden's [spreadsheet](Rainbow Tomatoes Garden Fish List.csv) that contains all the information about each product.
+I used Rainbow Tomatoes Garden's [spreadsheet](/Rainbow%20Tomatoes%20Garden%20Fish%20List.csv) that contains all the information about each product.
 
 First, I counted how many types of product there are and chose to focus on a few types of fish that are popular ingredients and are well-represented in the dataset -- mackerel, anchovy, sardine and tuna. I also counted the number of countries and the number of products from each country.
 
