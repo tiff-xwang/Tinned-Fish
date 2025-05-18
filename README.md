@@ -1,12 +1,13 @@
-# World's Largest Collection of Tinned Seafood
-🐟🐠🎣
+# The World's Largest Collection of Tinned Seafood
+🐟🎣🐠
 
 ## Goal
-Rainbow Tomatoes Garden says it has the world's largest tinned seafood collection, with over 800 products from 27 countries. Are there patterns to be drawn from its pool of data, that might be useful for consumers when they shop for tinned fish? 
+[Rainbow Tomatoes Garden](https://rainbowtomatoesgarden.com/) says it has the world's largest tinned seafood collection, with over 800 products from 27 countries. Are there patterns to be drawn from its pool of data that might be useful for consumers when they shop for tinned fish? 
 
 ## Findings
-After some [analysis](Tinned-Fish.ipynb), I was surprised by how many countries tinned fish come from and how many kinds of tinned products are out there. Spain, Portugal and France are the biggest tinned seafood producers, but there are also products from Armenia, Korea and Canada. There are regular fish options like tuna and sardine, but there are also tinned garfish and mussels. I looked more into how different countries and different type of fish differ in size and price, and ended up focusing my analysis on which tinned fish from which country has the cheapest unit price.
-<br>Read my [article](https://tiff-xwang.github.io/tinned-fish/) to find out!</br>
+After some [analysis](Tinned_Fish.ipynb), I was surprised by how many countries tinned fish come from and how many kinds of tinned products are out there. Spain, Portugal and France are the biggest tinned seafood producers, but there are also products from Armenia, Korea and Canada. There are regular fish options like tuna and sardine, but there are also tinned garfish and mussels. I looked more into how different countries and different type of fish differ in size and price, and ended up focusing my analysis on which tinned fish from which country has the cheapest unit price.
+
+Read my [article](https://tiff-xwang.github.io/tinned-fish/) to find out!
  
 ## Data & Workflow
 I used Rainbow Tomatoes Garden's [spreadsheet](Rainbow Tomatoes Garden Fish List.csv) that contains all the information about each product.
