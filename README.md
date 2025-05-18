@@ -12,7 +12,7 @@ Read my [article](https://tiff-xwang.github.io/tinned-fish/) to find out!
 ## Data & Workflow
 I used Rainbow Tomatoes Garden's [spreadsheet](/Rainbow%20Tomatoes%20Garden%20Fish%20List.csv) that contains all the information about each product.
 
-First, I counted how many types of product there are and chose to focus on a few types of fish that are popular ingredients and are well-represented in the dataset -- mackerel, anchovy, sardine and tuna. I also counted the number of countries and the number of products from each country.
+First, I counted how many types of product there are and chose to focus on a few types of fish that are popular ingredients and well-represented in the dataset -- mackerel, anchovy, sardine and tuna. I also counted the number of countries and the number of products from each country.
 
 Then, with different combinations of fish and country, I calculated the median price and median tin size, like sardine from Spain vs. sardine from France, or mackerel from Portugal vs. mackerel from Spain. I also looked into the type of oil used.
 
